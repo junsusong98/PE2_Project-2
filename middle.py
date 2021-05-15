@@ -47,3 +47,4 @@ detaset = pd.read_csv("pandas.csv")
 print(detaset)
 
 
+# 일규 바보
